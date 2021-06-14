@@ -2,7 +2,7 @@
 #### About me
 I`m a student of information systems
 
-🌎 Languages: Javascript, Python, C#, Java, PHP 
+🌎 Languages: Javascript, Python, C#, Java, PHP <br>
 💻 Frameworks: React js, Laravel, Spring Boot
 
 #### Contact 📝
